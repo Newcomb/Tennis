@@ -1,0 +1,31 @@
+h1,li{
+  color: black;
+
+}
+.sec1,.sec2{
+  height: 100%;
+  width:49%;
+}
+
+.sec1{
+  float:left;
+    border-right: 5px black dotted;
+}
+.sec2{
+  float:right;
+
+}
+
+
+li{
+  font-size: 25px;
+}
+.practice,.teach,.games,.stretches,.fitness.warm{
+  height: 33%;
+}
+.stretches{
+  margin-top: 6%;
+}
+.games{
+  margin-top: 13.5%;
+}
